@@ -17,7 +17,7 @@
    - OpenAI API
    - Streamlit
 
-- Run start_ui.py to use our prototype
+- Run start_UI.py to use our prototype
 
    ![image-20230206125223368](diagram.png)
 
