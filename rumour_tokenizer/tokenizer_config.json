@@ -1,0 +1,1 @@
+{"special": null, "min_freq": 0, "max_size": null, "lower_case": true, "delimiter": null, "never_split": null, "unk_token": "<unk>", "eos_token": null, "additional_special_tokens": null, "language": "en", "model_max_length": 500, "pad_token": "<pad>", "tokenizer_class": "RumourDetectionTwitterTokenizer"}
