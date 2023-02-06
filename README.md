@@ -1,12 +1,18 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/example-app-bert-keyword-extractor/main/app.py)
 
 
-# Bert Keyword Extractor
+# **Refining Internet Information with Few-shot LEarning (RIFLE) *and rumour detection**
 
-- The BERT Keyword Extractor app is an easy-to-use interface built in
-   Streamlit for the amazing KeyBERT library from Maarten Grootendorst!
- - It uses a minimal keyword extraction technique that leverages
-   multiple NLP embeddings and relies on Transformers 🤗 to create
-   keywords/keyphrases that are most similar to a document.
+- This is a project prototype for an **one-stop information refinement experience**, which is **cross-platform**, and continuous when switching among information sources. They are able to filter, classify and summarise their information obtained from the internet.
+- Functionalities:
+   1. Classify the information you retrieved from internet (Define your own customized category!)
+   2. Rumour detection
+- Built on
+   - Python
+   - SGNLP
+   - OpenAI API
+   - Streamlit
 
-![image](https://user-images.githubusercontent.com/27242399/140746511-1205f24a-869f-4b24-9ed7-9153cfeef8e3.png)
+
+![image-20230206125223368](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230206125223368.png)
+
