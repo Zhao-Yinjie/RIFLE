@@ -14,5 +14,5 @@
    - Streamlit
 
 
-![image-20230206125223368](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230206125223368.png)
+![image-20230206125223368](page_screenshot.png)
 
